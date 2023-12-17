@@ -33,6 +33,10 @@ Aunque manejo el BackEnd y el FrontEnd debo decir que actualmente me gusta mucho
 [![EXPRESS](https://img.shields.io/badge/%F0%9F%94%B6-Express-lightgrey)]()
 [![MONGODB](https://img.shields.io/badge/%F0%9F%94%B6-Mongo%20DB-brightgreen)]()
 [![DJANGO](https://img.shields.io/badge/%F0%9F%94%B6-Django%20Rest%20Framework-yellowgreen)]()
+[![GO](https://img.shields.io/badge/%F0%9F%94%B6-go-yellowgreen)]()
+[![GO](https://img.shields.io/badge/%F0%9F%94%B6-graphql-yellowgreen)]()
+
+
 
 [![MYSQL](https://img.shields.io/badge/%F0%9F%94%B6-My%20SQL-critical)]()
 [![REDUX](https://img.shields.io/badge/%F0%9F%94%B6-Redux-blueviolet)]()
